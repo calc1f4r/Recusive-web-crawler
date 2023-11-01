@@ -2,7 +2,9 @@
 
 Recursive Web Crawler is a Python-based tool for exploring websites recursively and extracting useful information such as subdomains, links, and JavaScript files. This tool is intended for web security professionals and web developers who want to examine the structure and dependencies of websites.
 
-https://github.com/calc1f4r/Recusive-web-crawler/assets/74751675/e0145d85-e10d-486f-a323-35350987afbf
+
+https://github.com/calc1f4r/Recusive-web-crawler/assets/74751675/bfd97074-2aab-44c9-8b6d-33f7f72c71df
+
 
 
 #### Features
